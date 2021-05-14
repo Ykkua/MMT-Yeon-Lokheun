@@ -7,6 +7,7 @@
   "chapters": {
     "1": {
       "title": "Tombent les pétales",
+       "volume": "1",
       "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/BpY6n7O/"
       },
@@ -14,13 +15,15 @@
     },
       "2": {
       "title": "La lune esseulée (1)",
+      "volume": "1",
       "groups": {
-      "MiamMiam Team": "/proxy/api/imgur/chapter/YvHN1r/"
+      "MiamMiam Team": "/proxy/api/imgur/chapter/lYvHN1r/"
    },
    "last_updated": "1616368746"
   },
    "3": {
       "title": "La lune esseulée (2)",
+      "volume": "1",
       "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/DvBIDGd/"
       },
@@ -28,6 +31,7 @@
     },
      "4": {
       "title": "Libération",
+      "volume": "1",
       "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/MV2hHHy/"
       },
@@ -35,6 +39,7 @@
     },
       "5": {
       "title": "Retrouvailles ",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/OGOjg5j/"
       },
@@ -42,6 +47,7 @@
     },
       "6": {
       "title": "Une rencontre ",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/CCs3B0P/"
       },
@@ -49,6 +55,7 @@
     },
       "7": {
       "title": "Une escale (1)",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/OXhkPo5/"
       },
@@ -56,6 +63,7 @@
     },
       "8": {
       "title": "Une escale (2)",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/r5p7K9P/"
       },
@@ -63,6 +71,7 @@
     },
       "9": {
       "title": "Une escale (3)",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/lTGJISk/"
       },
@@ -70,6 +79,7 @@
     },
       "10": {
       "title": "L’antre des démons (1)",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/Qj9uo80/"
       },
@@ -77,6 +87,7 @@
     },
       "11": {
       "title": " L’antre des démons (2)",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/YHFyBap/"
       },
@@ -84,6 +95,7 @@
     },
       "12": {
       "title": "L’antre des démons (3)",
+      "volume": "1",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/W0yUpVJ/"
       },
