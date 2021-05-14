@@ -11,6 +11,13 @@
         "MiamMiam Team": "/proxy/api/imgur/chapter/BpY6n7O/"
       },
       "last_updated": "1616368746"
-    }
+    },
+      "<chapter number>": {
+      "title": "La lune esseulée (1)",
+      "groups": {
+      "<MiamMiam Team>": "/proxy/api/imgur/chapter/YvHN1r/"
+   },
+   "last_updated": "1616368746"
+    },
   }
 }
