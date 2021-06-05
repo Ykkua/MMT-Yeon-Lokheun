@@ -124,7 +124,7 @@
         "MiamMiam Team": "/proxy/api/imgur/chapter/YMc6N8Z/"
       },
       "last_updated": "1621709477"
-        },
+    },
           "16": {
       "title": "L'histoire de Garyun : Destin",
       "volume": "1",
@@ -132,6 +132,14 @@
         "MiamMiam Team": "/proxy/api/imgur/chapter/r3oQvOs/"
       },
       "last_updated": "1622308967"
+    },
+          "17": {
+      "title": "Retenue",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/iw5eNro/"
+    },
+      "last_updated": "1622922818"
     }
    }
   }
